@@ -8,6 +8,8 @@ Windows işletim sisteminin ayarlarını kontrol etmesi ve değiştirmesi nedeni
 
 Verilen onay ile .Net Fremawork ayarlarını kontrol edip SSL/TLS ayarları için değişiklik sağlamaktadır.
 
+Uygulama .Net Fremawork 8.0 ile geliştirilmiştir.
+
 Program testleri Windows Server 2016, Windows 10 işletim sistemleri üzerinde .Net Fremawork 8.0 versiyonu ile başarılı bir şekilde gerçekleştirilmiştir.
 
 ![image](https://github.com/zeytinyilmaz/TLS/assets/11462101/1a749eb8-d18e-4267-b877-748939ea932b)
